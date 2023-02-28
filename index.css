@@ -1,0 +1,19 @@
+.quoteBody{
+    font-size: 45px !important;
+    color: orange !important;
+    font-family: "Sofia", sans-serif;
+}
+
+.quoteAuthor{
+    font-size:28 px !important;
+}
+.btn{
+    border-radius :0px;
+}
+.btn:focus {
+    outline: none;
+}
+
+.tweetQuote{
+    margin-top: 10px;
+}
